@@ -13,7 +13,7 @@
 ## Структура проекта
 ```
 Diplom_1/
-├── stellar_burger_app/ - Бизнес-логика приложения Stellar Burgers
+├── stellar_burger_app/ - Бизнес-логика приложения Stellar Burgers.
 │ ├── __init__.py - Делает папку пакетом Python
 │ ├── bun.py - класс булочки: её имя и цена
 │ ├── burger.py - класс бургера: сборка из ингредиентов и булочек
